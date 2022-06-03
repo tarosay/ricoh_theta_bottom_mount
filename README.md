@@ -1,0 +1,2 @@
+# ricoh_theta_bottom_mount
+リコーのTHETAの下につける小さな台のSTLデータです。
